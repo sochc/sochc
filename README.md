@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stina
 - 👀 I’m interested in programing html css backend
-- 🌱 I’m currently learning c# and puthon
+- 🌱 I’m currently learning c# 
 - 📫 How to reach me s.c_w@hotmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
